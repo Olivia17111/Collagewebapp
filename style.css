@@ -1,0 +1,27 @@
+.copy_right_footer {
+    position :fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: aqua;
+}
+.img {
+    box-shadow: 0 6px 8px rgba(0, 0, 2, 0.2);
+    border-width: 50px;
+    
+}
+.copy_right_header {
+    position :fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(0, 0, 2, 0.2);;
+   }
+   img:hover{ border-radius: 140px;
+   }
+   body 
+   {
+       background-color: rgb(211, 208, 208);
+       border-color: white;
+   }
